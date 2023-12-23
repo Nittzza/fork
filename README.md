@@ -1,3 +1,3 @@
 # Fork
 
-A simple text adventure and my first webapp!
+A simple text adventure game and my first webapp!
